@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-13T02:18:20.000Z</updated>
+  <updated>2017-11-30T11:42:57.132Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>XSS攻击学习总结</title>
+    <link href="http://yoursite.com/2017/11/30/getXssMessage/"/>
+    <id>http://yoursite.com/2017/11/30/getXssMessage/</id>
+    <published>2017-11-30T10:06:01.000Z</published>
+    <updated>2017-11-30T11:42:57.132Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在没有开始学习前端安全性知识前，我一直以为安全性问题都是后端处理的，原来前端也需要处理安全性的问题罒ω罒，为了成为一名优秀的前端工程师，发现自己不懂的知识，肯定要学起来。let’s
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
